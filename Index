@@ -1,0 +1,215 @@
+<html>
+<head>
+  <link rel="stylesheet" href="animate.css">
+   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  </head>
+    <body>
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        
+        <header>
+          <!--Navbar-->
+          <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+            <div class="container">
+              <a class="navbar-brand" href="#"><strong>RATS</strong></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+                <ul class="navbar-nav mr-auto">
+                  <li class="nav-item active">
+                    <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">ABOUT US</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardropdownlink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">SERVICES</a>
+                    <div class="dropdown-menu" aria-lebelledby="navbardropdownlink">
+                    <a class="dropdown-item" href="https://instagram.com">Instagram</a>
+                    <a class="dropdown-item" href="https://facebook.com">Facebook</a>
+                    <a class="dropdown-item" href="#">More</a>
+                    </div>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">WORK SAMPLE</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">CONTACT US</a>
+                  </li>
+                </ul>
+                <form class="form-inline">
+                  <div class="md-form my-0">
+                    <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                  </div>
+                </form>
+              </div>
+            </div>
+          </nav>
+          <!-- Navbar -->
+          <!-- Full Page Intro -->
+          <div class="view" style="background-image:url(images/ratslogo2.jpeg); background-repeat: no-repeat; background-size: cover; background-position: center center; background-attachment: fixed;">
+            <!-- Mask & flexbox options-->
+            <div class="mask rgba-black-light align-items-center">
+              <!-- Content -->
+              <div class="container">
+                <!--Grid row-->
+                <div class="row">
+                  <!--Grid column-->
+                  <div class="col-md-12 mb-4 white-text text-center" style="color: black">
+                    <h1 class="h1-reponsive white-text text-uppercase animated font-weight-bold mb-0 pt-md-5 pt-5 wow fadeInDown" data-wow-delay="0.3s"><br><br><br><br><strong>Rats International</strong></h1>
+                    <hr class="hr-light my-4 wow fadeInDown" data-wow-delay="0.4s">
+                    <h5 class="text-uppercase mb-4 white-text animated wow fadeInDown" data-wow-delay="0.4s"><strong>Marketing & Promotion</strong></h5>
+                    <a class="btn btn-outline-white animated wow fadeInDown" data-wow-delay="0.4s">portfolio</a>
+                  
+                    <a class="btn btn-outline-white animated wow fadeInDown" data-wow-delay="0.4s">About me</a>
+                  </div>
+                  <!--Grid column-->
+                </div>
+                <!--Grid row-->
+              </div>
+              <!-- Content -->
+            </div>
+            <!-- Mask & flexbox options-->
+          </div>
+          <!-- Full Page Intro -->
+        </header>
+        <!-- Main navigation -->
+        <!--Main Layout-->
+        <main>
+          <div class="container">
+            <!--Grid row-->
+            <div class="row py-5">
+              <!--Grid column-->
+              <div class="col-md-12 text-center">
+                <img src="images/lines2.jpg" width="0.05%"><br>
+                <h3><center><b><font color="#3D3D3D"><br>- Our Mission -</b></center></h3><br></font>
+                <center><font face="Monotype Corsiva"><h5 class="animated wow fadeInDown" data-wow-delay="0.4s">Giving<font color="#C1C614"> Digital Opportunity</font> for Small Chain to Challenge Plaza"</font></h5>
+                  <br>
+                <h4><center><b><font color="#3D3D3D">About Us</font></b></center></h4><br>
+                <h6 class="animated wow fadeInUp" data-wow-delay="0.4s">
+                <p><font color="#C1C614">RATS Promotion</font> is a part of RATS INTERNATIONAL which is a private based startup for the upliftment of small scale producer or seller to promote them digitally. In our everyday life we come across so many shops and miss many offers and discounts provided by outlet which makes our shopping a better experience economically and from business point of view the outlet owners goods could flow out creating a healthy and profitable business environment.</p></h6>
+              </div>
+              <!--Grid column-->
+            </div>
+            <!--Grid row-->
+          </div>
+        </main>
+
+         <div class="view" style="background-image:url(images/R1.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center; ">
+          <div class="col-md-12 text-center">
+            <br><br><br>
+            <font color="#3D3D3D" size="7">What we Do.</font>
+            <br><br><br><br><br><br><br><br><br><br><font color="#3D3D3D" size="6">Scroll Down.</font>
+            <center><img src="https://www.projectvive.com/uploads/5/0/0/5/50059335/arrow-down-2-icon_1_orig.gif" height="50" width="50"></center>
+          </div>
+         </div>
+
+            <div class="container">
+            <!--Grid row-->
+            <div class="row py-5">
+            <div class="col-md-12 text-center">
+              <font color="#3D3D3D" face="arial">
+           <h3><br><br><p class="bg-light">Get Assisted at Every Step to Your Success</p></h3></font>
+            </div>
+            </div>
+            </div>
+            <div class="container">
+            <div class="row py-5">
+            <div class="col-md-12 text-center">
+              <font color="#3D3D3D" face="arial">
+           <h1><p class="bg-light">Our Services</p></h1></font>
+           <h5>Drive more traffic to your website with our SEO services</h5>
+            </div>
+            </div>
+            </div>
+             <div class="container">
+            <div class="row py-5">
+            <div class="col-md-12 text-center">
+              <table class="table table-bordered table-responsive-xl">
+    <tbody>
+      <tr>
+        <td><center></center></td>
+        <td bgcolor="#2EF2FF"><center></center></td>
+        <td><center></center></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+          <div class="embed-responsive embed-responsive-16by9">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Hv7OX7raDeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <br><br><br><br><br><br>
+           <div class="view" style="background-image:url(images/scott-webb-ICypnq9qZH8-unsplash.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center; ">
+            </div>
+        <br><br><br><br><br>
+        <div class="col-md-12 text-center">
+          <font color="#3D3D3D" size="7">Contact Us</font>
+          <font color="#3D3D3D" face="arial">
+           <h3><br><br><p class="bg-light">Get Contacted With Our Experts Within 24 Hr</p></h3></font>
+           <br><br>
+<div class="container">
+  <form action="/action_page.php" class="needs-validation" novalidate>
+    <div class="form-group">
+      <label for="name">Full Name</label>
+      <input type="text" class="form-control" id="uname" placeholder="Enter username" name="uname" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <div class="form-group">
+      <label for="name">Email ID</label>
+      <input type="Email" class="form-control" id="Email" placeholder="Enter Email ID" name="emailid" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please Enter Valid Email ID.</div>
+    </div>
+    <div class="form-group form-check">
+      <label for="Number">Contact Number</label>
+      <input type="Number" class="form-control" id="Number" placeholder="Enter Contact Information" name="Number" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <label for="name">Business Name</label>
+      <input type="text" class="form-control" id="uname1" placeholder="Enter Details" name="uname1" required>
+      <div class="valid-feedback">Valid.</div>
+      <div class="invalid-feedback">Please fill out this field.</div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+
+<script>
+// Disable form submissions if there are invalid fields
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Get the forms we want to add validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>
+
+        </div>
+      <!--Main Layout-->
+        <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
+
+
+    </body>
+</html>
